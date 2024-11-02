@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Malik861
+- 👋 Hi, I’m Vipin Malik
 - 👀 I’m interested in a lot of things.
 - 🌱 I’m currently learning DATA SCIENCE
 - 💞️ I’m looking to collaborate on Projects related to data
